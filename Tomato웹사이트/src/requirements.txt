@@ -1,0 +1,7 @@
+pip install torch
+pip install opencv-python
+pip install numpy
+pip install tensorflow
+pip install Flask
+pip install ultralytics
+pip install Pillow
